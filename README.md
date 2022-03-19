@@ -25,12 +25,14 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![](https://i.imgur.com/Fi2fOkA.gif)
 
 ![](https://i.imgur.com/9itCniz.gif)
 
 ![](https://i.imgur.com/gupupYA.gif)
 
+# Twitter - Part I
 
 Time spent: **3** hours spent in total
 
